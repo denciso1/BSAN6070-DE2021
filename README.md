@@ -6,7 +6,7 @@ We are analyzing the air quality in India. They are grouped by state and we anly
 
 ## Installation
 
-make sure you download this csv file in order to have the data used for this project
+Make sure you download the csv file from the kaggle link below and upload it to the GoogleColab folder, in order to properly run the code. 
 https://www.kaggle.com/shrutibhargava94/india-air-quality-data
 
 must be familiar with these packages:
