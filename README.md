@@ -2,11 +2,11 @@
 
 # India Air Quality-CA01.ipynb
 
-We are analyzing the air quality in India. They are grouped by state and we anlyse the different metrics in pollution. so2, no2, rspm, spm
+We are analyzing the air quality in India. They are grouped by state and we analyse the different metrics in pollution. so2, no2, rspm, spm
 
 ## Installation
 
-Make sure you download the csv file from the kaggle link below and upload it to the GoogleColab folder, in order to properly run the code. 
+Make sure you download the csv file from the kaggle link below and upload it to the GoogleColab folder (on the left side of the pane), in order to properly run the code. 
 https://www.kaggle.com/shrutibhargava94/india-air-quality-data
 
 must be familiar with these packages:
